@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a CDAC Graduate in Big Data Analytics.<br>
+Computer Science graduate and CDAC-certified Big Data Analytics professional skilled in Python, MySQL, Spark, AWS, and data
+visualization. Experienced in building scalable data pipelines, developing machine learning models, and applying Generative AI and LLM
+based solutions for real-world analytics and automation..<br>
 
 
 ## 🌐 Socials:
